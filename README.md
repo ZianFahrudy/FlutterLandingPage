@@ -1,6 +1,6 @@
 # flutter_landing_page_web
 
-A new Flutter project.
+https://tender-haibt-ab679b.netlify.app
 
 ## Getting Started
 
